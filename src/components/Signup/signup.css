@@ -1,0 +1,41 @@
+.form-container {
+  margin: 20px auto;
+  width: 500px;
+  height: 700px;
+  background: #ffffff;
+  border: 1px solid #95a0a7;
+  border-radius: 8px;
+}
+form .title {
+  text-align: center;
+}
+.form-control label {
+  display: block;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  letter-spacing: 0.0015em;
+  margin: 5px 5px;
+}
+.form-control {
+  margin: 10px 30px;
+}
+.form-control input {
+  width: 415px;
+  height: 55px;
+  left: 518px;
+  top: 322px;
+
+  border: 1px solid #95a0a7;
+  border-radius: 5px;
+}
+.btn-submit{
+    border: 1px solid gray;
+  margin: 10px 30px;
+  width: 415px;
+  height: 55px;
+  left: 518px;
+  top: 626px;
+  background: rgba(255, 153, 0, 0.3);
+  border-radius: 5px;
+}
